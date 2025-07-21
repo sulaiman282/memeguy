@@ -1,0 +1,18 @@
+{
+  "socialLinks": [
+    {
+      "name": "X",
+      "url": "https://x.com/i/communities/1946938953753559272",
+      "icon": "/icons/twitter.png"
+    },
+    {
+      "name": "Dexscreener",
+      "url": "https://dexscreener.com/solana/h1urf99vhxxqvrvm8gtfb4mhsigfjx3u1dvdzvvqd3v",
+      "icon": "/icons/dexscreener.png"
+    }
+  ],
+  "contractAddress": "8qG73rghM3F3RYdoNpgheCXvSPAV7NCiF4xfzUv5Nx9o",
+  "buyButtonUrl": "https://birdeye.so/token/8qG73rghM3F3RYdoNpgheCXvSPAV7NCiF4xfzUv5Nx9o?chain=solana"
+} 
+
+

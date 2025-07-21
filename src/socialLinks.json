@@ -2,17 +2,17 @@
   "socialLinks": [
     {
       "name": "X",
-      "url": "https://x.com/i/communities/1946938953753559272",
+      "url": "https://x.com/i/communities/1947396083413360732",
       "icon": "/icons/twitter.png"
     },
     {
-      "name": "Dexscreener",
-      "url": "https://dexscreener.com/solana/h1urf99vhxxqvrvm8gtfb4mhsigfjx3u1dvdzvvqd3v",
-      "icon": "/icons/dexscreener.png"
+      "name": "Pump",
+      "url": "https://pump.fun/coin/B9jsf9WnsFR6SkrWUD5vrCcdUf6SQ496PxFuoCedBVPg#p121555733",
+      "icon": "/icons/pump.png"
     }
   ],
-  "contractAddress": "8qG73rghM3F3RYdoNpgheCXvSPAV7NCiF4xfzUv5Nx9o",
-  "buyButtonUrl": "https://birdeye.so/token/8qG73rghM3F3RYdoNpgheCXvSPAV7NCiF4xfzUv5Nx9o?chain=solana"
+  "contractAddress": "B9jsf9WnsFR6SkrWUD5vrCcdUf6SQ496PxFuoCedBVPg",
+  "buyButtonUrl": "https://birdeye.so/token/B9jsf9WnsFR6SkrWUD5vrCcdUf6SQ496PxFuoCedBVPg?chain=solana"
 } 
 
 
